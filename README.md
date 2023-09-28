@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Tim Gottling Tegman</h1>
-<h3 align="center">A frontend developer student from Sweden</h3>
+<h3 align="center">A frontend developer from Stockholm</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
